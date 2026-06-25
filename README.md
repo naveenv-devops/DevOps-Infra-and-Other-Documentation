@@ -11,10 +11,10 @@ Central documentation for **MetaPercept DevOps** (internal governance) and **met
 
 | Track | Audience | Location | Site |
 |---|---|---|---|
-| **Product docs** | Customers, authors, admins | [`product-docs/`](product-docs/README.md) | [docs.met-r.io](https://docs.met-r.io) |
-| **DevOps docs** | Engineers, CI/CD, GitHub | [`docs/devops/`](docs/devops/README.md) | platform-docs.met-r.io |
-| **Platform docs** | Architects, SRE, leads | [`docs/platform/`](docs/platform/README.md) | platform-docs.met-r.io |
-| **Internal hub** | All engineering | [`docs/`](docs/README.md) | Combined index |
+| **Product docs** | Customers, authors, admins | [`product-docs/docs/`](product-docs/docs/README.md) | [docs.met-r.io](https://docs.met-r.io) |
+| **DevOps docs** | Engineers, CI/CD, GitHub | [`docs/pages/devops/`](docs/pages/devops/README.md) | platform-docs.met-r.io |
+| **Platform docs** | Architects, SRE, leads | [`docs/pages/platform/`](docs/pages/platform/README.md) | platform-docs.met-r.io |
+| **Internal hub** | All engineering | [`docs/pages/`](docs/pages/README.md) | Combined index |
 | **POC evaluations** | Infrastructure decisions | [`poc/`](poc/README.md) | — |
 
 ---
