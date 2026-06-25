@@ -1,0 +1,17 @@
+# Build output
+product-docs/site/
+docs/site/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional: regenerate org scan reports locally (uncomment to exclude from public repo)
+# reports/*.csv
+# reports/*.xlsx

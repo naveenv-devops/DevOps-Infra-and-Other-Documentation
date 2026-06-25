@@ -5,7 +5,7 @@
 
 Internal engineering documentation for **MetaPercept** — DevOps operations and Met-R platform engineering.
 
-[← Repository README](../README.md)
+[← Repository README](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/README.md)
 
 ---
 
@@ -15,8 +15,8 @@ Internal engineering documentation for **MetaPercept** — DevOps operations and
 |---|---|---|
 | **[DevOps](devops/README.md)** | Engineers, CI/CD, GitHub governance | `docs/devops/` |
 | **[Platform](platform/README.md)** | Architects, SRE, DevOps leads | `docs/platform/` |
-| **[Product](../product-docs/README.md)** | Customers, authors (public) | `product-docs/` → docs.met-r.io |
-| **[POC](../poc/README.md)** | Infrastructure evaluations | `poc/` |
+| **[Product](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/product-docs/docs/README.md)** | Customers, authors (public) | `product-docs/` → docs.met-r.io |
+| **[POC](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/poc/README.md)** | Infrastructure evaluations | `poc/` |
 
 ---
 
@@ -61,7 +61,7 @@ mkdocs serve
 # Open http://127.0.0.1:8000
 ```
 
-Config: [`mkdocs.yml`](mkdocs.yml) → target: `platform-docs.met-r.io` or internal wiki
+Config: [`docs/mkdocs.yml`](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/docs/mkdocs.yml) → target: `platform-docs.met-r.io` or internal wiki
 
 ---
 
