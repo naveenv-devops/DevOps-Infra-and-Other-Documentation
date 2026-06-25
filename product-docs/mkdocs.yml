@@ -1,0 +1,90 @@
+site_name: Met-R Documentation
+site_url: https://docs.met-r.io
+site_description: Official documentation for met-r.io — intelligent documentation orchestration by MetaPercept
+site_author: MetaPercept
+
+repo_name: metapercept-metr/cursor-documentation
+repo_url: https://github.com/metapercept-metr/cursor-documentation
+edit_uri: edit/dev/product-docs/
+
+copyright: Copyright &copy; 2026 MetaPercept
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: README.md
+  - Get started:
+      - Introduction: get-started/introduction.md
+      - Prerequisites: get-started/prerequisites.md
+      - Quick start: get-started/quick-start.md
+      - Key concepts: get-started/key-concepts.md
+      - System requirements: get-started/system-requirements.md
+  - Product:
+      - Platform overview: product/platform-overview.md
+      - Converters: product/converters/README.md
+      - Document management: product/document-management/README.md
+      - Publishing & output: product/publishing/README.md
+      - AI capabilities: product/ai/README.md
+      - Infinity DocSite: product/infinity-docsite.md
+  - Guides:
+      - User guide: guides/user-guide/README.md
+      - Author workflows: guides/author-workflows.md
+      - Conversion workflows: guides/conversion-workflows.md
+      - Review & approval: guides/review-and-approval.md
+  - Administration:
+      - Admin overview: admin/README.md
+      - Workspace setup: admin/workspace-setup.md
+      - Pipeline configuration: admin/pipeline-configuration.md
+      - Governance & security: admin/governance.md
+  - Developers:
+      - API overview: developers/api-overview.md
+      - API Gateway: developers/api-gateway.md
+      - Integrations: developers/integrations.md
+      - XSLT library: developers/xslt-library.md
+  - Reference:
+      - Supported formats: reference/supported-formats.md
+      - Licensing: reference/licensing.md
+      - Glossary: reference/glossary.md
+      - Repository map: reference/repository-map.md
+      - FAQ: reference/faq.md
+  - Support:
+      - Troubleshooting: support/troubleshooting.md
+      - Contact support: support/contact.md
+      - Release notes: support/release-notes.md

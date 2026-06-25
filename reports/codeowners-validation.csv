@@ -1,0 +1,196 @@
+Repository,Branch,Status,Issues
+"AWS-BEDROCK-SAM","dev","skipped","branch not found"
+"AWS-BEDROCK-SAM","devops-testing","skipped","branch not found"
+"AWS-BEDROCK-SAM","main","invalid","GitHub syntax error at .github/CODEOWNERS:4 — Unknown owner on line 4: make sure @nilesh-sk exists and has write access to the repository
+
+  *  @nilesh-sk @naveenv-devops
+     ^"
+"Asish_Test_Repo","dev","skipped","branch not found"
+"Asish_Test_Repo","devops-testing","skipped","branch not found"
+"Asish_Test_Repo","main","invalid","GitHub syntax error at .github/CODEOWNERS:4 — Unknown owner on line 4: make sure @nilesh-sk exists and has write access to the repository
+
+  *  @nilesh-sk @naveenv-devops
+     ^"
+"EnableX-Sourcing-files","dev","skipped","branch not found"
+"EnableX-Sourcing-files","devops-testing","skipped","branch not found"
+"EnableX-Sourcing-files","main","invalid","GitHub syntax error at .github/CODEOWNERS:4 — Unknown owner on line 4: make sure @nilesh-sk exists and has write access to the repository
+
+  *  @nilesh-sk @naveenv-devops
+     ^"
+"KUBERNETES","dev","skipped","branch not found"
+"KUBERNETES","devops-testing","skipped","branch not found"
+"KUBERNETES","main","invalid","GitHub syntax error at .github/CODEOWNERS:4 — Unknown owner on line 4: make sure @nilesh-sk exists and has write access to the repository
+
+  *  @nilesh-sk @naveenv-devops
+     ^"
+"Kajal_Test_Repo","dev","skipped","branch not found"
+"Kajal_Test_Repo","devops-testing","skipped","branch not found"
+"Kajal_Test_Repo","main","invalid","GitHub syntax error at .github/CODEOWNERS:4 — Unknown owner on line 4: make sure @nilesh-sk exists and has write access to the repository
+
+  *  @nilesh-sk @naveenv-devops
+     ^"
+"MetR-Demo","dev","skipped","branch not found"
+"MetR-Demo","devops-testing","skipped","branch not found"
+"MetR-Demo","main","valid",""
+"MetR-Master-AI-Agent","dev","skipped","branch not found"
+"MetR-Master-AI-Agent","devops-testing","skipped","branch not found"
+"MetR-Master-AI-Agent","main","skipped","branch not found"
+"Nirmata-Sourcing-files","dev","skipped","branch not found"
+"Nirmata-Sourcing-files","devops-testing","skipped","branch not found"
+"Nirmata-Sourcing-files","main","valid",""
+"RuleSet-Branches-Secure","dev","skipped","branch not found"
+"RuleSet-Branches-Secure","devops-testing","skipped","branch not found"
+"RuleSet-Branches-Secure","main","valid",""
+"WORKDAY-SCHEDULER-SETUP","dev","skipped","branch not found"
+"WORKDAY-SCHEDULER-SETUP","devops-testing","skipped","branch not found"
+"WORKDAY-SCHEDULER-SETUP","main","invalid","GitHub syntax error at .github/CODEOWNERS:4 — Unknown owner on line 4: make sure @nilesh-sk exists and has write access to the repository
+
+  *  @nilesh-sk @naveenv-devops
+     ^"
+"admin-metapercept","dev","skipped","branch not found"
+"admin-metapercept","devops-testing","skipped","branch not found"
+"admin-metapercept","main","valid",""
+"ai-devops-teammate","dev","skipped","branch not found"
+"ai-devops-teammate","devops-testing","skipped","branch not found"
+"ai-devops-teammate","main","invalid","GitHub syntax error at .github/CODEOWNERS:4 — Unknown owner on line 4: make sure @nilesh-sk exists and has write access to the repository
+
+  *  @nilesh-sk @naveenv-devops
+     ^"
+"api-metapercept","dev","skipped","branch not found"
+"api-metapercept","devops-testing","skipped","branch not found"
+"api-metapercept","main","valid",""
+"blog-adminpanel-metapercept","dev","skipped","branch not found"
+"blog-adminpanel-metapercept","devops-testing","skipped","branch not found"
+"blog-adminpanel-metapercept","main","skipped","branch not found"
+"blog-metapercept","dev","skipped","branch not found"
+"blog-metapercept","devops-testing","skipped","branch not found"
+"blog-metapercept","main","valid",""
+"careers-adminpanel-metapercept","dev","skipped","branch not found"
+"careers-adminpanel-metapercept","devops-testing","skipped","branch not found"
+"careers-adminpanel-metapercept","main","skipped","branch not found"
+"careers-metapercept","dev","skipped","branch not found"
+"careers-metapercept","devops-testing","skipped","branch not found"
+"careers-metapercept","main","valid",""
+"demo-repository","dev","skipped","branch not found"
+"demo-repository","devops-testing","skipped","branch not found"
+"demo-repository","main","invalid","GitHub syntax error at .github/CODEOWNERS:4 — Unknown owner on line 4: make sure @nilesh-sk exists and has write access to the repository
+
+  *  @nilesh-sk @naveenv-devops
+     ^"
+"dita2-validation-transformation","dev","skipped","branch not found"
+"dita2-validation-transformation","devops-testing","skipped","branch not found"
+"dita2-validation-transformation","main","invalid","GitHub syntax error at .github/CODEOWNERS:4 — Unknown owner on line 4: make sure @nilesh-sk exists and has write access to the repository
+
+  *  @nilesh-sk @naveenv-devops
+     ^"
+"github-org-mcp-server","dev","skipped","branch not found"
+"github-org-mcp-server","devops-testing","skipped","branch not found"
+"github-org-mcp-server","main","invalid","GitHub syntax error at .github/CODEOWNERS:4 — Unknown owner on line 4: make sure @nilesh-sk exists and has write access to the repository
+
+  *  @nilesh-sk @naveenv-devops
+     ^"
+"metR-API-Gateway","dev","valid",""
+"metR-API-Gateway","devops-testing","valid",""
+"metR-API-Gateway","main","valid",""
+"metR-Client-Admin","dev","skipped","branch not found"
+"metR-Client-Admin","devops-testing","skipped","branch not found"
+"metR-Client-Admin","main","skipped","branch not found"
+"metR-Converter-DOCX","dev","valid",""
+"metR-Converter-DOCX","devops-testing","valid",""
+"metR-Converter-DOCX","main","valid",""
+"metR-Converter-DocBook","dev","skipped","branch not found"
+"metR-Converter-DocBook","devops-testing","skipped","branch not found"
+"metR-Converter-DocBook","main","valid",""
+"metR-Converter-FrameMaker","dev","valid",""
+"metR-Converter-FrameMaker","devops-testing","valid",""
+"metR-Converter-FrameMaker","main","valid",""
+"metR-Converter-HTML","dev","valid",""
+"metR-Converter-HTML","devops-testing","valid",""
+"metR-Converter-HTML","main","valid",""
+"metR-Converter-Markdown","dev","valid",""
+"metR-Converter-Markdown","devops-testing","valid",""
+"metR-Converter-Markdown","main","valid",""
+"metR-Converter-PDF","dev","skipped","branch not found"
+"metR-Converter-PDF","devops-testing","skipped","branch not found"
+"metR-Converter-PDF","main","valid",""
+"metR-Converter-PropDITA","dev","skipped","branch not found"
+"metR-Converter-PropDITA","devops-testing","skipped","branch not found"
+"metR-Converter-PropDITA","main","valid",""
+"metR-Converter-SitecoreXML","dev","skipped","branch not found"
+"metR-Converter-SitecoreXML","devops-testing","skipped","branch not found"
+"metR-Converter-SitecoreXML","main","valid",""
+"metR-Core-Infrastructure","dev","skipped","branch not found"
+"metR-Core-Infrastructure","devops-testing","skipped","branch not found"
+"metR-Core-Infrastructure","main","invalid","GitHub syntax error at .github/CODEOWNERS:4 — Unknown owner on line 4: make sure @nilesh-sk exists and has write access to the repository
+
+  *  @nilesh-sk @naveenv-devops
+     ^"
+"metR-DedUp","dev","skipped","branch not found"
+"metR-DedUp","devops-testing","skipped","branch not found"
+"metR-DedUp","main","valid",""
+"metR-DocEditor","dev","skipped","branch not found"
+"metR-DocEditor","devops-testing","skipped","branch not found"
+"metR-DocEditor","main","valid",""
+"metR-DocManager","dev","skipped","branch not found"
+"metR-DocManager","devops-testing","skipped","branch not found"
+"metR-DocManager","main","valid",""
+"metR-DocMigrate","dev","skipped","branch not found"
+"metR-DocMigrate","devops-testing","skipped","branch not found"
+"metR-DocMigrate","main","valid",""
+"metR-DocPublisher","dev","skipped","branch not found"
+"metR-DocPublisher","devops-testing","skipped","branch not found"
+"metR-DocPublisher","main","valid",""
+"metR-Frontend","dev","valid",""
+"metR-Frontend","devops-testing","valid",""
+"metR-Frontend","main","valid",""
+"metR-InfinityDocSite","dev","skipped","branch not found"
+"metR-InfinityDocSite","devops-testing","skipped","branch not found"
+"metR-InfinityDocSite","main","valid",""
+"metR-Output-HTML5-CMS","dev","skipped","branch not found"
+"metR-Output-HTML5-CMS","devops-testing","skipped","branch not found"
+"metR-Output-HTML5-CMS","main","valid",""
+"metR-Output-PDF","dev","skipped","branch not found"
+"metR-Output-PDF","devops-testing","skipped","branch not found"
+"metR-Output-PDF","main","valid",""
+"metR-Output-XML-JSON-AI","dev","skipped","branch not found"
+"metR-Output-XML-JSON-AI","devops-testing","skipped","branch not found"
+"metR-Output-XML-JSON-AI","main","valid",""
+"metR-Phase2","dev","skipped","branch not found"
+"metR-Phase2","devops-testing","skipped","branch not found"
+"metR-Phase2","main","valid",""
+"metR-Phase2-shared-pipelines","dev","skipped","branch not found"
+"metR-Phase2-shared-pipelines","devops-testing","skipped","branch not found"
+"metR-Phase2-shared-pipelines","main","invalid","GitHub syntax error at .github/CODEOWNERS:4 — Unknown owner on line 4: make sure @nilesh-sk exists and has write access to the repository
+
+  *  @nilesh-sk @naveenv-devops
+     ^"
+"metR-Server-Admin","dev","valid",""
+"metR-Server-Admin","devops-testing","valid",""
+"metR-Server-Admin","main","skipped","branch not found"
+"metR-XSLT-Library","dev","skipped","branch not found"
+"metR-XSLT-Library","devops-testing","skipped","branch not found"
+"metR-XSLT-Library","main","valid",""
+"metR_Determinacy_Engine","dev","skipped","branch not found"
+"metR_Determinacy_Engine","devops-testing","skipped","branch not found"
+"metR_Determinacy_Engine","main","valid",""
+"metapercept-main","dev","skipped","branch not found"
+"metapercept-main","devops-testing","skipped","branch not found"
+"metapercept-main","main","valid",""
+"oxygen-web-author","dev","skipped","branch not found"
+"oxygen-web-author","devops-testing","skipped","branch not found"
+"oxygen-web-author","main","invalid","GitHub syntax error at .github/CODEOWNERS:4 — Unknown owner on line 4: make sure @nilesh-sk exists and has write access to the repository
+
+  *  @nilesh-sk @naveenv-devops
+     ^"
+"portfolio-adminpanel-metapercept","dev","skipped","branch not found"
+"portfolio-adminpanel-metapercept","devops-testing","skipped","branch not found"
+"portfolio-adminpanel-metapercept","main","skipped","branch not found"
+"portfolio-metapercept","dev","skipped","branch not found"
+"portfolio-metapercept","devops-testing","skipped","branch not found"
+"portfolio-metapercept","main","valid",""
+"training-appadmin-metapercept","dev","skipped","branch not found"
+"training-appadmin-metapercept","devops-testing","skipped","branch not found"
+"training-appadmin-metapercept","main","skipped","branch not found"
+"training-metapercept","dev","skipped","branch not found"
+"training-metapercept","devops-testing","skipped","branch not found"
+"training-metapercept","main","skipped","branch not found"

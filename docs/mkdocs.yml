@@ -1,0 +1,79 @@
+site_name: Met-R Platform & DevOps Docs
+site_url: https://platform-docs.met-r.io
+site_description: Internal platform engineering and DevOps documentation for MetaPercept
+site_author: MetaPercept DevOps
+
+repo_name: metapercept-metr/cursor-documentation
+repo_url: https://github.com/metapercept-metr/cursor-documentation
+edit_uri: edit/dev/docs/
+
+copyright: Copyright &copy; 2026 MetaPercept — Internal use only
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: README.md
+  - DevOps:
+      - Overview: devops/README.md
+      - Prerequisites: devops/prerequisites.md
+      - Licensing: devops/licensing.md
+      - CI/CD overview: devops/ci-cd-overview.md
+      - Shared pipelines: devops/shared-pipelines.md
+      - Environments: devops/environments.md
+      - Engineer onboarding: devops/onboarding.md
+      - Runbooks:
+          - Index: devops/runbooks/README.md
+          - Deployment: devops/runbooks/deployment.md
+          - Incident response: devops/runbooks/incident-response.md
+          - CODEOWNERS validation: devops/runbooks/codeowners-validation.md
+          - Rollback: devops/runbooks/rollback.md
+      - GitHub governance:
+          - Org governance: github-org-governance.md
+          - Branch protection: github-branch-protection.md
+          - CODEOWNERS: github-codeowners.md
+          - PR merge guide: github-pr-merge-guide.md
+          - Signed commits: github-signed-commits.md
+  - Platform:
+      - Overview: platform/README.md
+      - Prerequisites: platform/prerequisites.md
+      - Licensing: platform/licensing.md
+      - Architecture: platform/architecture.md
+      - Services catalog: platform/services-catalog.md
+      - Deployment: platform/deployment-environments.md
+      - Infrastructure: platform/infrastructure.md
+      - Security: platform/security-compliance.md
+      - Observability: platform/observability.md

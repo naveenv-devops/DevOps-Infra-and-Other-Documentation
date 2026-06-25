@@ -1,0 +1,4 @@
+# This is a basic CODEOWNERS file.
+# See https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners for details on how to specify code owners.
+
+*  @naveenv-devops

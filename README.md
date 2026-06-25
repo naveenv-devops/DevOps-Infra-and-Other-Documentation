@@ -1,22 +1,45 @@
-# DevOps Infrastructure — POC Documentation Hub
+# DevOps Infrastructure & Met-R Documentation Hub
 
-Central repository for **Proof of Concept (POC)** evaluations, cost comparisons, and infrastructure decision records for the DevOps team.
+Central documentation for **MetaPercept DevOps** (internal governance) and **met-r.io** (product documentation).
 
-**Team context:** 15 users · GitHub Team · Copilot Business (4 licenses)  
+**Organization:** [metapercept-metr](https://github.com/metapercept-metr) · **Product:** [met-r.io](https://met-r.io)  
 **Last updated:** June 2026
 
 ---
 
-## Purpose
+## Documentation tracks
 
-This repo captures structured POC documentation to help the team:
+| Track | Audience | Location | Site |
+|---|---|---|---|
+| **Product docs** | Customers, authors, admins | [`product-docs/`](product-docs/README.md) | [docs.met-r.io](https://docs.met-r.io) |
+| **DevOps docs** | Engineers, CI/CD, GitHub | [`docs/devops/`](docs/devops/README.md) | platform-docs.met-r.io |
+| **Platform docs** | Architects, SRE, leads | [`docs/platform/`](docs/platform/README.md) | platform-docs.met-r.io |
+| **Internal hub** | All engineering | [`docs/`](docs/README.md) | Combined index |
+| **POC evaluations** | Infrastructure decisions | [`poc/`](poc/README.md) | — |
 
-- Evaluate platforms, tools, and services before adoption or migration
-- Compare pricing, features, and operational trade-offs with evidence
-- Record decisions, test plans, and outcomes for future reference
-- Standardize how infrastructure POCs are run, scored, and archived
+---
 
-POCs here are **decision-support documents**, not production runbooks. Once a POC concludes, approved choices move into operational docs (Confluence, internal wiki, or IaC repos).
+## Quick start — internal docs (DevOps + Platform)
+
+```bash
+pip install mkdocs-material
+cd docs
+mkdocs serve
+# Open http://127.0.0.1:8000
+```
+
+---
+
+## Quick start — product documentation
+
+```bash
+pip install -r product-docs/requirements.txt
+cd product-docs
+mkdocs serve
+# Open http://127.0.0.1:8000
+```
+
+Hub page: [`product-docs/README.md`](product-docs/README.md) (structured like [GitHub Docs](https://docs.github.com/en))
 
 ---
 
@@ -25,15 +48,26 @@ POCs here are **decision-support documents**, not production runbooks. Once a PO
 ```
 cursor-documentation/
 ├── README.md                          ← You are here
-├── poc/
-│   ├── README.md                      ← POC index and templates
-│   └── github-gitlab-bitbucket-ai-pricing-comparison.md
-└── docs/                              ← Future: approved standards & runbooks
-    ├── architecture/
-    ├── ci-cd/
-    ├── cloud/
-    ├── monitoring/
-    └── security/
+├── product-docs/                      ← met-r.io product docs (public-facing)
+│   ├── README.md                      ← Docs hub (like docs.github.com/en)
+│   ├── mkdocs.yml                     ← Site config → docs.met-r.io
+│   ├── get-started/                   ← Onboarding
+│   ├── product/                       ← Platform, converters, AI, publishing
+│   ├── guides/                        ← User how-to guides
+│   ├── admin/                         ← Administration
+│   ├── developers/                    ← API & integrations
+│   ├── reference/                     ← Formats, glossary, FAQ
+│   └── support/                       ← Troubleshooting, contact
+├── docs/                              ← Internal DevOps + Platform docs
+│   ├── README.md                      ← Internal docs hub
+│   ├── mkdocs.yml                     ← → platform-docs.met-r.io
+│   ├── devops/                        ← CI/CD, GitHub, runbooks
+│   ├── platform/                      ← Architecture, services, infra
+│   └── github-*.md                    ← GitHub governance (linked from devops/)
+├── poc/                               ← Infrastructure POC records
+├── scripts/                           ← Org automation scripts
+├── templates/.github/                 ← CODEOWNERS templates
+└── reports/                           ← Scan & validation reports
 ```
 
 ---
@@ -146,6 +180,22 @@ Use these default weights unless the POC charter specifies otherwise:
 ---
 
 ## Quick Links
+
+### Met-R product documentation
+
+- [Product docs hub](product-docs/README.md)
+- [Prerequisites](product-docs/get-started/prerequisites.md) · [Licensing](product-docs/reference/licensing.md)
+- [Introduction to Met-R](product-docs/get-started/introduction.md)
+
+### DevOps & Platform (internal)
+
+- [Internal docs hub](docs/README.md)
+- [DevOps prerequisites](docs/devops/prerequisites.md) · [DevOps licensing](docs/devops/licensing.md)
+- [Platform prerequisites](docs/platform/prerequisites.md) · [Platform licensing](docs/platform/licensing.md)
+- [DevOps — CI/CD](docs/devops/ci-cd-overview.md) · [Runbooks](docs/devops/runbooks/README.md)
+- [Platform — Architecture](docs/platform/architecture.md) · [Services catalog](docs/platform/services-catalog.md)
+- [GitHub governance](docs/github-org-governance.md) · [Branch protection](docs/github-branch-protection.md) · [Signed commits](docs/github-signed-commits.md)
+- Preview: `cd docs && mkdocs serve`
 
 ### Completed / in-progress POC documents
 
