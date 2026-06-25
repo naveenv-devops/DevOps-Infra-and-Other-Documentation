@@ -92,7 +92,7 @@ py -m mkdocs build
 | Team onboarding | Point engineers to `docs/pages/` only |
 | Customer onboarding | Point to product docs hub only |
 
----
+----
 
 ## Related
 
