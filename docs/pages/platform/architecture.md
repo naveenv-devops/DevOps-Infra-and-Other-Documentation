@@ -102,4 +102,4 @@ System design for the Met-R documentation orchestration platform.
 
 - [Services catalog](services-catalog.md)
 - [Infrastructure](infrastructure.md)
-- [Product platform overview](../../product-docs/product/platform-overview.md)
+- [Product platform overview](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/product-docs/docs/product/platform-overview.md)

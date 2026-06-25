@@ -87,12 +87,9 @@ Use this site to learn how to convert, manage, publish, and govern technical con
 
 ---
 
-## Internal documentation
+## Internal documentation (engineering team)
 
-DevOps and engineering governance docs are maintained separately:
-
-- [DevOps documentation hub](../docs/README.md) — GitHub org governance, branch protection, CODEOWNERS
-- [POC evaluations](../poc/README.md) — Infrastructure proof-of-concept records
+The following content is for **MetaPercept engineers**, not end-users. It lives in the same GitHub repository under `docs/pages/` and `poc/` — browse the repository on GitHub for engineering runbooks and POC evaluations.
 
 ---
 

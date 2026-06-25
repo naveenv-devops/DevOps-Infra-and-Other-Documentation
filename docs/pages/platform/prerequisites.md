@@ -167,5 +167,5 @@ See [Security & compliance](security-compliance.md).
 
 - [Infrastructure](infrastructure.md)
 - [Deployment environments](deployment-environments.md)
-- [Product prerequisites](../../product-docs/get-started/prerequisites.md)
+- [Product prerequisites](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/product-docs/docs/get-started/prerequisites.md)
 - [DevOps prerequisites](../devops/prerequisites.md)

@@ -8,7 +8,7 @@
 |---|---|
 | **Email** | support@metapercept.com |
 | **Account manager** | Billing, licensing, new workspaces |
-| **DevOps** | Platform incidents, infrastructure (`@naveenv-devops`) |
+| **Enterprise support** | Platform incidents (Enterprise plan customers) |
 
 ---
 

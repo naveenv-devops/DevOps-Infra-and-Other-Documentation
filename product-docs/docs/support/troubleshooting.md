@@ -35,15 +35,6 @@ Common issues and resolutions.
 
 ---
 
-## PR / development (internal)
-
-For GitHub merge blockers on Met-R repositories, see internal docs:
-
-- [PR merge guide](../../docs/github-pr-merge-guide.md)
-- [Signed commits](../../docs/github-signed-commits.md)
-
----
-
 ## Related
 
 - [Contact support](contact.md)

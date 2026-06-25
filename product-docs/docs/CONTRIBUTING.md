@@ -128,9 +128,9 @@ Deploy `site/` to your hosting target (GitHub Pages, Azure Static Web Apps, S3 +
 1. Create a branch from `dev`
 2. Add or edit markdown under `product-docs/`
 3. Run `mkdocs serve` locally and verify links
-4. Open PR with label `documentation`
-5. CODEOWNER review (`@naveenv-devops`, `@nilesh-sk`)
-6. Merge to `dev` → publish pipeline deploys docs
+4. Open a pull request with label `documentation`
+5. Maintainer review and merge to `main`
+6. GitHub Pages workflow publishes the site automatically
 
 ---
 
@@ -149,4 +149,4 @@ Use in page front matter or opening paragraph:
 
 ## Questions
 
-Contact the documentation maintainers via DevOps (`@naveenv-devops`) or your project lead.
+Contact MetaPercept via [admin@metapercept.com](mailto:admin@metapercept.com) or open a GitHub issue in this repository.

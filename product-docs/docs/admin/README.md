@@ -26,4 +26,4 @@ Configure workspaces, users, pipelines, and platform settings.
 ## Related
 
 - [API overview](../developers/api-overview.md)
-- [Internal DevOps docs](../../docs/github-org-governance.md)
+- [Governance & security](governance.md)

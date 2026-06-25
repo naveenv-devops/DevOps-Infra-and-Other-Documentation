@@ -2,7 +2,7 @@
 
 Engineering operations standards for the **metapercept-metr** organization — CI/CD, GitHub governance, environments, and runbooks.
 
-[← Documentation hub](README.md)
+[← Documentation hub](../README.md)
 
 ---
 
@@ -24,11 +24,11 @@ Engineering operations standards for the **metapercept-metr** organization — C
 
 | Document | Description |
 |---|---|
-| [Org governance](github-org-governance.md) | Org-wide standards for all 52 repositories |
-| [Branch protection](github-branch-protection.md) | Rulesets for `dev` and `main` |
-| [CODEOWNERS](github-codeowners.md) | Standard vs restricted templates |
-| [PR merge guide](github-pr-merge-guide.md) | Review and merge workflow |
-| [Signed commits](github-signed-commits.md) | Required for `dev` / `devops-testing` |
+| [Org governance](../github-org-governance.md) | Org-wide standards for all 52 repositories |
+| [Branch protection](../github-branch-protection.md) | Rulesets for `dev` and `main` |
+| [CODEOWNERS](../github-codeowners.md) | Standard vs restricted templates |
+| [PR merge guide](../github-pr-merge-guide.md) | Review and merge workflow |
+| [Signed commits](../github-signed-commits.md) | Required for `dev` / `devops-testing` |
 
 ---
 
@@ -40,7 +40,7 @@ Engineering operations standards for the **metapercept-metr** organization — C
 | Rollout CODEOWNERS | `py -3 scripts/add_codeowners_to_org.py` | Write |
 | Org scan → XLSX | `py -3 scripts/generate_org_scan_xlsx.py` | Read-only |
 
-Reports: [`../reports/`](../reports/)
+Reports are written to the repository `reports/` folder when scripts are run locally.
 
 ---
 

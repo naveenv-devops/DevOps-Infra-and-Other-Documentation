@@ -21,7 +21,7 @@ Software licenses for platform components, open source compliance, and third-par
 
 Met-R SaaS subscription plans (Starter, Professional, Enterprise) are documented in:
 
-**[Product licensing](../../product-docs/reference/licensing.md)**
+**[Product licensing](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/product-docs/docs/reference/licensing.md)**
 
 ---
 
@@ -118,7 +118,7 @@ Contact MetaPercept sales for compliance documentation.
 
 ## Related
 
-- [Product licensing](../../product-docs/reference/licensing.md)
+- [Product licensing](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/product-docs/docs/reference/licensing.md)
 - [DevOps licensing](../devops/licensing.md)
 - [Security & compliance](security-compliance.md)
 - [Prerequisites](prerequisites.md)

@@ -1,5 +1,8 @@
 # Documentation Hub
 
+> **Audience:** MetaPercept engineering and DevOps only — not for Met-R end-users.  
+> **Customers:** see [product documentation](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/product-docs/docs/README.md).
+
 Internal engineering documentation for **MetaPercept** — DevOps operations and Met-R platform engineering.
 
 [← Repository README](../README.md)

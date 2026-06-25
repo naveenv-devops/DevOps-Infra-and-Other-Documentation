@@ -20,7 +20,7 @@ Everything required before using Met-R — accounts, tooling, network, and third
 
 ### Workspace access
 
-1. Your organization must have an active **Met-R subscription** (see [Licensing](licensing.md))
+1. Your organization must have an active **Met-R subscription** (see [Licensing](../reference/licensing.md))
 2. A **Client Admin** creates your user account and assigns a role:
    - Viewer, Author, Reviewer, Client Admin, or Server Admin
 3. You receive an invitation email with sign-in instructions
@@ -107,13 +107,13 @@ Additional prerequisites for private or dedicated deployments:
 
 | Requirement | Detail |
 |---|---|
-| Kubernetes cluster | 1.27+ (see [Platform prerequisites](../../docs/platform/prerequisites.md)) |
+| Kubernetes cluster | 1.27+ |
 | Container registry | Accessible from cluster |
 | DNS & TLS certificate | Custom domain for workspace |
 | Identity provider | SAML/OIDC for SSO (enterprise) |
 | Storage | Object storage for document files |
 
-Contact MetaPercept sales for the full infrastructure checklist.
+Contact MetaPercept sales for the full infrastructure checklist and engineering prerequisites.
 
 ---
 
@@ -133,7 +133,6 @@ Contact MetaPercept sales for the full infrastructure checklist.
 
 ## Related
 
-- [Licensing](licensing.md)
+- [Licensing](../reference/licensing.md)
 - [System requirements](system-requirements.md)
 - [Quick start](quick-start.md)
-- [Platform prerequisites (internal)](../../docs/platform/prerequisites.md)

@@ -53,4 +53,4 @@
 ## Related
 
 - [MetaPercept website](https://metapercept.com)
-- [GitHub organization](https://github.com/metapercept-metr) (internal)
+- [Contact support](../support/contact.md)

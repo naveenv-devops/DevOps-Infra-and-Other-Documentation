@@ -1,6 +1,9 @@
 # POC Documentation Index
 
-Proof of Concept documents for DevOps infrastructure evaluations. Each POC follows a standard structure so comparisons are consistent and decisions are auditable.
+> **Audience:** MetaPercept engineering and leadership only — contains internal vendor pricing and evaluation data.  
+> **End-users:** see [product documentation](../product-docs/docs/README.md).
+
+Proof of Concept documents for DevOps infrastructure evaluations.
 
 [← Back to repository README](../README.md)
 

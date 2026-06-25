@@ -55,7 +55,7 @@ gh auth status
 | [Services catalog](../platform/services-catalog.md) | 20 min |
 | [CI/CD overview](ci-cd-overview.md) | 15 min |
 | [PR merge guide](../github-pr-merge-guide.md) | 15 min |
-| [Key concepts (product)](../../product-docs/get-started/key-concepts.md) | 15 min |
+| [Key concepts (product)](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/product-docs/docs/get-started/key-concepts.md) | 15 min |
 
 ---
 

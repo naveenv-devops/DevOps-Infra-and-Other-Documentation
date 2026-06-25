@@ -29,7 +29,7 @@ Deploy a Met-R service to a target environment.
 2. Create release tag: `vX.Y.Z`
 3. Monitor deploy workflow
 4. Run smoke tests against production endpoints
-5. Update [release notes](../../product-docs/support/release-notes.md)
+5. Update [release notes](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/product-docs/docs/support/release-notes.md)
 6. Announce in team channel
 
 ---

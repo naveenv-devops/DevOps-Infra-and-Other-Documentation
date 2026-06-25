@@ -106,4 +106,4 @@ Report: `reports/codeowners-validation-latest.csv`
 ## Related
 
 - [Architecture](architecture.md)
-- [Product repository map](../../product-docs/reference/repository-map.md)
+- [Product repository map](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/product-docs/docs/reference/repository-map.md)

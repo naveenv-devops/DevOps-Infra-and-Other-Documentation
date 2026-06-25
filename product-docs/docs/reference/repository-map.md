@@ -1,6 +1,8 @@
 # Repository map
 
-GitHub repositories that make up the Met-R platform (`metapercept-metr` organization).
+> **Audience:** Integrators and technical teams. Describes Met-R platform service components.
+
+Component names and their roles in the Met-R platform architecture.
 
 ---
 
@@ -77,4 +79,4 @@ GitHub repositories that make up the Met-R platform (`metapercept-metr` organiza
 ## Related
 
 - [Platform overview](../product/platform-overview.md)
-- [Internal DevOps governance](../../docs/github-org-governance.md)
+- [Glossary](glossary.md)

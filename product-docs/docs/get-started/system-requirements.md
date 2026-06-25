@@ -8,9 +8,9 @@ Hardware, software, and network requirements for using Met-R.
 
 Before using Met-R, ensure you have:
 
-- Active workspace account (see [Prerequisites](get-started/prerequisites.md))
+- Active workspace account (see [Prerequisites](prerequisites.md))
 - Supported browser and network access
-- Valid subscription plan (see [Licensing](reference/licensing.md))
+- Valid subscription plan (see [Licensing](../reference/licensing.md))
 - Source authoring tool license if uploading FrameMaker, Word, etc.
 
 ---

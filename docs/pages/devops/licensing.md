@@ -66,7 +66,7 @@ Licenses for development tooling used by the MetaPercept engineering team and `m
 
 - Copilot Chat, Agent mode, CLI, cloud agents, code review
 
-Evaluation reference: [POC-001 Copilot comparison](../../poc/github-gitlab-bitbucket-ai-pricing-comparison.md)
+Evaluation reference: [POC-001 Copilot comparison](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/poc/github-gitlab-bitbucket-ai-pricing-comparison.md)
 
 ---
 
@@ -137,5 +137,5 @@ Evaluation reference: [POC-001 Copilot comparison](../../poc/github-gitlab-bitbu
 ## Related
 
 - [DevOps prerequisites](prerequisites.md)
-- [POC-001 AI pricing comparison](../../poc/github-gitlab-bitbucket-ai-pricing-comparison.md)
-- [Product licensing](../../product-docs/reference/licensing.md)
+- [POC-001 AI pricing comparison](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/poc/github-gitlab-bitbucket-ai-pricing-comparison.md)
+- [Product licensing](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/product-docs/docs/reference/licensing.md)

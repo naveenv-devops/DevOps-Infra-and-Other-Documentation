@@ -139,17 +139,15 @@ A full SBOM (Software Bill of Materials) is available for Enterprise customers o
 
 ---
 
-## MetaPercept development tooling licenses (internal)
+## Engineering tooling (internal)
 
-Engineering team tooling licenses are documented separately:
-
-- [DevOps licensing](../../docs/devops/licensing.md) — GitHub, Copilot, CI/CD tools
+MetaPercept engineering team tooling is documented in the repository under `docs/pages/` (engineering audience only).
 
 ---
 
 ## Related
 
-- [Prerequisites](prerequisites.md)
+- [Prerequisites](../get-started/prerequisites.md)
 - [Contact support](../support/contact.md)
 - [Admin — workspace setup](../admin/workspace-setup.md)
 - [Governance](../admin/governance.md)

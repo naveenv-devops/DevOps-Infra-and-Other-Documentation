@@ -41,4 +41,4 @@ Contact MetaPercept for:
 ## Related
 
 - [Workspace setup](workspace-setup.md)
-- [Internal GitHub governance](../../docs/github-org-governance.md)
+- [Pipeline configuration](pipeline-configuration.md)

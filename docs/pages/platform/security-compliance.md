@@ -65,5 +65,5 @@ Details: [GitHub org governance](../github-org-governance.md)
 
 ## Related
 
-- [Governance (product)](../../product-docs/admin/governance.md)
+- [Governance (product)](https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation/blob/main/product-docs/docs/admin/governance.md)
 - [Branch protection](../github-branch-protection.md)
