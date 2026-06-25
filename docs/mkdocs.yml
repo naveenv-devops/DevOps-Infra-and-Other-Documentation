@@ -1,11 +1,12 @@
 site_name: Met-R Platform & DevOps Docs
 site_url: https://platform-docs.met-r.io
+docs_dir: pages
 site_description: Internal platform engineering and DevOps documentation for MetaPercept
 site_author: MetaPercept DevOps
 
 repo_name: metapercept-metr/cursor-documentation
-repo_url: https://github.com/metapercept-metr/cursor-documentation
-edit_uri: edit/dev/docs/
+repo_url: https://github.com/naveenv-devops/DevOps-Infra-and-Other-Documentation.git
+edit_uri: edit/dev/docs/pages/
 
 copyright: Copyright &copy; 2026 MetaPercept — Internal use only
 
